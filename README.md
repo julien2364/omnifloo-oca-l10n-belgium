@@ -18,7 +18,13 @@ l10n-belgium
 
 [//]: # (addons)
 
-This part will be replaced when running the oca-gen-addons-table script from OCA/maintainer-tools.
+Unported addons
+---------------
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[companyweb_base](companyweb_base/) | 19.0.1.1.5 (unported) | <a href='https://github.com/xavier-bouquiaux'><img src='https://github.com/xavier-bouquiaux.png' width='32' height='32' style='border-radius:50%;' alt='xavier-bouquiaux'/></a> | Know exactly who you are doing business with. Enrich Odoo contacts with Companyweb.
+[companyweb_payment_info](companyweb_payment_info/) | 19.0.1.0.2 (unported) | <a href='https://github.com/xavier-bouquiaux'><img src='https://github.com/xavier-bouquiaux.png' width='32' height='32' style='border-radius:50%;' alt='xavier-bouquiaux'/></a> | Send your customer payment information to Companyweb
+[l10n_be_mis_reports](l10n_be_mis_reports/) | 19.0.1.0.0 (unported) |  | MIS Builder templates for the Belgium P&L, Balance Sheets and VAT Declaration
 
 [//]: # (end addons)
 
