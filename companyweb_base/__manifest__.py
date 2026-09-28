@@ -11,7 +11,7 @@
     "version": "19.0.1.1.5",
     "development_status": "Production/Stable",
     "license": "AGPL-3",
-    "installable": True,
+    "installable": False,
     "data": [
         "wizards/companyweb_search_wizard.xml",
         "wizards/companyweb_search_wizard_line.xml",

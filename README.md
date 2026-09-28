@@ -1,13 +1,14 @@
 
-[![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/l10n-belgium&target_branch=19.0)
-[![Pre-commit Status](https://github.com/OCA/l10n-belgium/actions/workflows/pre-commit.yml/badge.svg?branch=19.0)](https://github.com/OCA/l10n-belgium/actions/workflows/pre-commit.yml?query=branch%3A19.0)
-[![Build Status](https://github.com/OCA/l10n-belgium/actions/workflows/test.yml/badge.svg?branch=19.0)](https://github.com/OCA/l10n-belgium/actions/workflows/test.yml?query=branch%3A19.0)
-[![codecov](https://codecov.io/gh/OCA/l10n-belgium/branch/19.0/graph/badge.svg)](https://codecov.io/gh/OCA/l10n-belgium)
-[![Translation Status](https://translation.odoo-community.org/widgets/l10n-belgium-19-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/l10n-belgium-19-0/?utm_source=widget)
-
-<!-- /!\ do not modify above this line -->
+[![Support the OCA](https://odoo-community.org/readme-banner-image)](https://odoo-community.org/get-involved?utm_source=repo-readme)
 
 # l10n-belgium
+[![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/l10n-belgium&target_branch=20.0)
+[![Pre-commit Status](https://github.com/OCA/l10n-belgium/actions/workflows/pre-commit.yml/badge.svg?branch=20.0)](https://github.com/OCA/l10n-belgium/actions/workflows/pre-commit.yml?query=branch%3A20.0)
+[![Build Status](https://github.com/OCA/l10n-belgium/actions/workflows/test.yml/badge.svg?branch=20.0)](https://github.com/OCA/l10n-belgium/actions/workflows/test.yml?query=branch%3A20.0)
+[![codecov](https://codecov.io/gh/OCA/l10n-belgium/branch/20.0/graph/badge.svg)](https://codecov.io/gh/OCA/l10n-belgium)
+[![Translation Status](https://translation.odoo-community.org/widgets/l10n-belgium-20-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/l10n-belgium-20-0/?utm_source=widget)
+
+<!-- /!\ do not modify above this line -->
 
 l10n-belgium
 
@@ -17,13 +18,7 @@ l10n-belgium
 
 [//]: # (addons)
 
-Available addons
-----------------
-addon | version | maintainers | summary
---- | --- | --- | ---
-[companyweb_base](companyweb_base/) | 19.0.1.1.5 | <a href='https://github.com/xavier-bouquiaux'><img src='https://github.com/xavier-bouquiaux.png' width='32' height='32' style='border-radius:50%;' alt='xavier-bouquiaux'/></a> | Know exactly who you are doing business with. Enrich Odoo contacts with Companyweb.
-[companyweb_payment_info](companyweb_payment_info/) | 19.0.1.0.2 | <a href='https://github.com/xavier-bouquiaux'><img src='https://github.com/xavier-bouquiaux.png' width='32' height='32' style='border-radius:50%;' alt='xavier-bouquiaux'/></a> | Send your customer payment information to Companyweb
-[l10n_be_mis_reports](l10n_be_mis_reports/) | 19.0.1.0.0 |  | MIS Builder templates for the Belgium P&L, Balance Sheets and VAT Declaration
+This part will be replaced when running the oca-gen-addons-table script from OCA/maintainer-tools.
 
 [//]: # (end addons)
 

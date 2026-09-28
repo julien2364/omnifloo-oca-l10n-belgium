@@ -7,7 +7,7 @@
     "website": "https://github.com/OCA/l10n-belgium",
     "version": "19.0.1.0.2",
     "license": "AGPL-3",
-    "installable": True,
+    "installable": False,
     "application": True,
     "data": [
         "data/ir_config_parameter.xml",

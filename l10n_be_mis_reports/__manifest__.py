@@ -35,5 +35,5 @@
         "data/mis_report_pl_deprecated.xml",
         "data/mis_report_vat.xml",
     ],
-    "installable": True,
+    "installable": False,
 }
